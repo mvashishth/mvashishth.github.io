@@ -1,0 +1,75 @@
+
+.blog-content{
+  font-family: 'Varela', sans-serif;
+  font-size: 1.85rem;
+  color: #000000;
+}
+
+.blog-heading{
+	font-weight: bold;
+	font-size: 3.75rem;
+	color: #132743;
+}
+
+.blog-tags{
+	font-size:1.5rem;
+	color: #0d7377;
+	
+}
+
+.blog-date{
+	font-size:1.5rem;
+	color: #0d7377;
+	
+}
+
+
+.blog-hyperlinks{
+color: inherit;
+text-decoration: none!important;
+color: #132743;
+}
+
+.blog-hyperlinks:visited{
+text-decoration: none!important;
+}
+
+.blog-hyperlinks:link{
+text-decoration: none!important;
+}
+.blog-hyperlinks:active{
+text-decoration: none!important;
+}
+
+.blog-hyperlinks:hover{
+text-decoration: none!important;
+}
+
+
+
+@media only screen and (max-width: 599px) {
+.blog-content{
+  font-family: 'Varela', sans-serif;
+  font-size: 1.25rem;
+}
+ .bottom-scroll{
+  margin-bottom: 15vh;
+}
+
+.blog-tags{
+	font-size:1.15rem;
+	
+}
+
+.blog-date{
+	font-size:1.15rem;
+	
+}
+
+
+.blog-heading{
+	font-size: 2.5srem;
+}
+
+
+}

@@ -1,0 +1,67 @@
+.homepage-main {
+  margin-left: 7rem; 
+}
+
+
+.home-small-scrn-header{
+  display: none;
+}
+
+.homepage-bio{
+  font-family: 'Varela', sans-serif;
+  font-size: 2rem;
+}
+
+ .homepage-photo {
+
+  width: 250px;
+  height: 250px;
+  margin-top: 23vh;
+  margin-bottom: 2rem;
+  border-radius: 50%;
+
+
+
+ }
+
+@media only screen and (max-width: 599px) {
+
+
+  .homepage-main {
+  	padding-top: 0;
+  	padding-bottom: 0;
+    margin: 0;
+
+}
+
+.homepage-bio{
+  font-family: 'Varela', sans-serif;
+  font-size: 1.25rem;
+}
+
+.homepage-photo {
+
+  margin-top: 17vh;
+  width: 200px;
+  height: 200px;
+  margin-bottom: 2rem;
+  border-radius: 50%;
+
+
+ }
+
+ .bottom-scroll{
+  margin-bottom: 15vh;
+}
+
+.home-bg-scrn-footer{
+  display: none;
+}
+
+.home-small-scrn-header{
+  display: inline;
+}
+
+}
+
+
