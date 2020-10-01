@@ -1,4 +1,5 @@
-##This is the repo for my personal website.
+## This is the repo for my personal website.
+The website is hosted at https://mvashishth.github.io
 
 To see how the code works please follow the following steps:
 1. Clone the repo
