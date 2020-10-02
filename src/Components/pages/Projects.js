@@ -1,3 +1,4 @@
+/*This is for projects page. Use Blog css for this incase you want to update this page*/
 import React from 'react';
 import image from "../../Assets/Images/Projects/none.png"
 

@@ -1,3 +1,5 @@
+
+/*First Blog. use Blog page css classes*/
 import React from 'react';
 {/*No need to import css*/}
 

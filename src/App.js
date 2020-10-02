@@ -12,7 +12,7 @@ import{
 	Link
 }from 'react-router-dom';
 
-
+/*Main Render Function*/
 function App() {
   return (
   	<Router>
@@ -20,6 +20,8 @@ function App() {
     <Footer />
     <Header />
 
+
+    /*Links to all pages*/
     <Route exact path='/' component={Homepage} />
     <Route exact path='/Blog' component={Blog} />
     <Route exact path='/Projects' component={Projects} />

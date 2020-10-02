@@ -1,3 +1,5 @@
+
+/*It says footer but it is actually right sidebar or header based on screen size*/
 import React from 'react'; 
 import "../../Assets/css/footer.css"
 import{
@@ -19,7 +21,7 @@ function Footer() {
 
 
 
-
+    /*github*/
 
 
 
@@ -63,6 +65,7 @@ function Footer() {
 
 
 
+    /*LinkedIn*/
 
       <li className="footc-item footc-link">
 <a href="https://www.linkedin.com/in/mayurvashishth/">
@@ -82,6 +85,7 @@ function Footer() {
 
 
 
+    /*Twitter*/
 
 
 
@@ -109,6 +113,7 @@ function Footer() {
 
 
 
+    /*Instagram*/
 
 
 

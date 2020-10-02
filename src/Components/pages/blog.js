@@ -1,3 +1,5 @@
+/*Blog Page. Add blogs to blog_pages and link them here*/
+
 import React from 'react';
 import "../../Assets/css/blog.css";
 import{
@@ -28,7 +30,7 @@ This is my first blog. I don't know in which direction it will go. Plan is track
 maybe share something I find interesting...
 <Link to="/Blog1" className="blog-hyperlinks" style={{fontWeight:"bold"}}>[Read More]</Link>
 </p>
-<span className="blog-tags">Tags: Reddit</span>
+<span className="blog-tags">Tags: First Blog</span>
 </div>
 </div>
 
