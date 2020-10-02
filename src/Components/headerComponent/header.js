@@ -1,5 +1,4 @@
 
-/*It says header but this is actually left sidebar or footer based on screensize*/
 
 import React, {useState} from 'react';
 import{
@@ -9,7 +8,6 @@ import "../../Assets/css/header.css";
 import pdf from "../../Components/resume/resume.pdf";
 import {ThemeProvider, createGlobalStyle} from 'styled-components';
 
-/*This const is for dark theme css*/
 
 const GlobalStyle = createGlobalStyle`
 .homepage-bio{
@@ -83,7 +81,6 @@ function Header() {
 
 
 
-/*Logo*/
       
 
       <li className="logoc">
@@ -120,7 +117,6 @@ viewBox="0 0 512 512" svg version="1.1" id="Capa_1"
       </li>
 
 
-/*Home*/
 
 
 
@@ -143,8 +139,7 @@ viewBox="0 0 512 512" svg version="1.1" id="Capa_1"
 
 
 
-/*BLog*/
-      <li className="navc-item">
+<li className="navc-item">
 <Link to="/Blog" className="navc-link">
 <svg version="1.1" id="Capa_1"
    viewBox="0 0 317.037 317.037" height="30px" width="30px"
@@ -172,8 +167,6 @@ viewBox="0 0 512 512" svg version="1.1" id="Capa_1"
 
 
 
-
-/*Projects*/
 
  <li className="navc-item">
 <Link to="/Projects" className="navc-link">
@@ -287,8 +280,6 @@ viewBox="0 0 512 512" svg version="1.1" id="Capa_1"
 
 
 
-/*CV*/
-
 
       <li className="navc-item">
     <a href={pdf} className="navc-link">
@@ -324,7 +315,7 @@ viewBox="0 0 512 512" svg version="1.1" id="Capa_1"
 
 
 
-/*Colour Theme icons*/
+
 
       <li className="navc-item navc-link" onClick={e=>setTheme(theme.mode==='dark'?{mode:'light'}:{mode:'dark'})}>
 

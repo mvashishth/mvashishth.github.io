@@ -1,4 +1,3 @@
-/*Blog Page. Add blogs to blog_pages and link them here*/
 
 import React from 'react';
 import "../../Assets/css/blog.css";

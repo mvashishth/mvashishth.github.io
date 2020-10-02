@@ -1,4 +1,3 @@
-/*This is for homepage. Don't touch any of the bootstrap classes. It will screw up everything*/
 import React from 'react';
 import "../../Assets/css/homepage.css"
 import mainimage from "../../Assets/Images/Home/main.jpg"
