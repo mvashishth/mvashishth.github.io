@@ -22,7 +22,7 @@ White Hat Jr. May End up Doing More Harm Than Good
 
 </Link></h1>
 
-<h5 className="blog-date">Date: 28 September 2020</h5>
+<h5 className="blog-date">Date: 04 October 2020</h5>
 <p className="blog-content">
 Recently there has been a lot of buzz around for this new startup called White Hat Jr.
 For those who don't know, it is an online programming teaching platform aimed at children 

@@ -23,7 +23,7 @@ White Hat Jr. May End up Doing More Harm Than Good
 
 <h5 className="blog-date">
 
-Date: 03 October 2020
+Date: 04 October 2020
 
 </h5>
 <p className="blog-content">
