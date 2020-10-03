@@ -6,6 +6,7 @@ import Homepage from "./Components/pages/homepage";
 import Blog from "./Components/pages/blog";
 import Projects from "./Components/pages/Projects";
 import Blog1 from "./Components/pages/blog_pages/blog_1"
+import Blog2 from "./Components/pages/blog_pages/blog2"
 import{
 	BrowserRouter as Router,
 	Route,
@@ -24,7 +25,7 @@ function App() {
     <Route exact path='/Blog' component={Blog} />
     <Route exact path='/Projects' component={Projects} />
     <Route exact path='/Blog1' component={Blog1} />
-
+    <Route exact path='/Blog2' component={Blog2} />
 
 
     <Background/>

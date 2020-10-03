@@ -63,7 +63,7 @@ display:none!important;
 
 
 function Header() {
-  const[theme,setTheme]=useState({mode:"dark"});
+  const[theme,setTheme]=useState({mode:"light"});
   return (
 <header>
 <ThemeProvider theme={theme}>
