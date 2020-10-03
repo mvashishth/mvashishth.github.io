@@ -18,7 +18,7 @@ function Blog() {
 
 <h1 className="blog-heading"><Link to="/Blog2" className="blog-hyperlinks">
 
-White Hat Jr. May End up Doing More Harm Than Good
+White Hat Jr. and What it Stands For in Our Society
 
 </Link></h1>
 

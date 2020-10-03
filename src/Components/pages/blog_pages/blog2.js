@@ -18,7 +18,7 @@ function Blog2() {
 
 <h1 className="blog-heading">
 
-White Hat Jr. May End up Doing More Harm Than Good
+White Hat Jr. and What it Stands For in Our Society
 </h1>
 
 <h5 className="blog-date">
