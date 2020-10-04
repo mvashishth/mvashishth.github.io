@@ -10,12 +10,13 @@ import Blog2 from "./Components/pages/blog_pages/blog2"
 import{
 	BrowserRouter as Router,
 	Route,
-	Link
+	Link,
+  HashRouter
 }from 'react-router-dom';
 
 function App() {
   return (
-  	<Router>
+  	<HashRouter>
     <div className="App">
     <Footer />
     <Header />
@@ -32,7 +33,7 @@ function App() {
 
 
     </div>
-    </Router>
+    </HashRouter>
   );
 }
 
