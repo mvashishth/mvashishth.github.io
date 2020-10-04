@@ -61,9 +61,7 @@ experience than the student (I don't know how long they train their tutors but a
 
 <p className="blog-content">
 If all of the above sounds similar it is because my generation went through the same thing but with coaching institutes. I have personally had the freedom to 
-pick whatever I wanted to study but a lot of the people around me didn't have the same choice. And we all know what has that resulted to, where <a href="https://www.newindianexpress.com/nation/2018/dec/27/kota-toll-rising-each-year-1916935.html" className="blog-hyperlinks">
-19 students 
-commited suicide in the year 2018.</a> Now, with these EdTech startups the outcomes may not be the same but they do operate on the same principle of selling the 
+pick whatever I wanted to study but a lot of the people around me didn't have the same choice. These EdTech startups operate on the same principle of selling the 
 glory of a highly paid career to parents who don't know any better. I just hope this time around with all the information available on the Internet, parents will
 realise that there are better ways of raising their kids and will help their kids develop their interests and that if their kids do end up showing interest in programming,
 they <a href="https://edu.google.com/code-with-google/?modal_active=none&story-card_activeEl=enhance-any-subject" className="blog-hyperlinks">don't have to pay for programming lessons.</a>
@@ -74,7 +72,7 @@ P.S.: I like countless other programmers made this website without ever paying a
 
 
 <span className="blog-tags">
-Tags: White Hat Jr., Careers, Computer Science, FOSS
+Tags: White Hat Jr., Careers, Computer Science
 </span>
 </div>
 </div>

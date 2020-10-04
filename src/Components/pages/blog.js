@@ -29,7 +29,7 @@ For those who don't know, it is an online programming teaching platform aimed at
 from ages 6 to 18...
 <Link to="/Blog2" className="blog-hyperlinks" style={{fontWeight:"bold"}}>[Read More]</Link>
 </p>
-<span className="blog-tags">Tags: White Hat Jr., Careers, Computer Science, FOSS</span>
+<span className="blog-tags">Tags: White Hat Jr., Careers, Computer Science</span>
 </div>
 </div>
 
