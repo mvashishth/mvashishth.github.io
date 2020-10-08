@@ -23,7 +23,6 @@ code, read books and play videogames in my free time. I plan to work in tech one
 free to hit me up on any of the platforms
 <span className="home-bg-scrn-footer"> given on the right. </span>
 <span className="home-small-scrn-header"> given above. </span>
-Also, feel free to copy whatever part of the website you want to. Repo name is mvashishth.github.io in my profile.
 </div>
 </div>
 </main>
