@@ -11,7 +11,7 @@ function Homepage() {
   	<main style={{zIndex:"10"}} className="homepage-main">
  <div className="col-lg-4 col-lg-offset-4 col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2 col-xs-10 col-xs-offset-1">
  <div style={{textAlign:"center"}}>
- <img src={mainimage} className="homepage-photo center-block"/>
+ <img src={mainimage} className="homepage-photo center-block" loading="lazy"/>
  </div>
  </div>
  <div className="col-lg-4 col-lg-offset-4 col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2 col-xs-10 col-xs-offset-1 align-items-center text-justify bottom-scroll">
@@ -23,6 +23,7 @@ code, read books and play videogames in my free time. I plan to work in tech one
 free to hit me up on any of the platforms
 <span className="home-bg-scrn-footer"> given on the right. </span>
 <span className="home-small-scrn-header"> given above. </span>
+or you can email me at <a href="mailto:vashishthmayur@gmail.com" className="blog-hyperlinks">vashishthmayur@gmail.com</a>.
 </div>
 </div>
 </main>
