@@ -13,7 +13,7 @@ color:${props=>props.theme.mode==='dark'?'#32e0c4':'#000000'}!important;
 }
 
 .bg-body{
-background-image:${props=>props.theme.mode==='dark'?'linear-gradient(20deg, #121212, #121212)':'linear-gradient(20deg, #28df99, #f6f7d4)'}!important;
+background-image:${props=>props.theme.mode==='dark'?'linear-gradient(20deg, #121212, #121212)':'linear-gradient(20deg, #a8dda8, #f6f7d4)'}!important;
 }
 
 

@@ -1,8 +1,5 @@
 .bg-body{
-	height:100vh;
-	width:100vw;
-	background-image: linear-gradient(20deg, #28df99, #f6f7d4);
 	position: fixed;
-
+	height:100vh;
+	width: 100vw;
 }
-

@@ -18,6 +18,7 @@ function App() {
   return (
   	<HashRouter>
     <div className="App">
+    <Background/>
     <Footer />
     <Header />
 
@@ -29,7 +30,7 @@ function App() {
     <Route exact path='/Blog2' component={Blog2} />
 
 
-    <Background/>
+    
 
 
     </div>
