@@ -12,6 +12,24 @@ function Blog() {
 
 
 {/*Start from here*/}
+ <div className="col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2 col-xs-10 col-xs-offset-1 align-items-center text-justify">
+ <div>
+
+<h1 className="blog-heading"><Link to="/Blog2" className="blog-hyperlinks">
+
+Mentorship Proposal
+
+</Link></h1>
+
+<h5 className="blog-date">Date: 17 August 2021</h5>
+<p className="blog-content">
+I am writing this blogpost as a mentorship proposal, asking marmar111 from discord to be my mentor...
+<Link to="/Blog3" className="blog-hyperlinks" style={{fontWeight:"bold"}}>[Read More]</Link>
+</p>
+<span className="blog-tags">Tags: Mentorship, Learning, JavaScript</span>
+</div>
+</div>
+{/*Add this for spacing*/}
 
  <div className="col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2 col-xs-10 col-xs-offset-1 align-items-center text-justify">
  <div>
